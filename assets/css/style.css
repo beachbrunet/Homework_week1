@@ -87,10 +87,10 @@ p {
   background-color: #2589bd;
 }
 
-/* Combined all the benifit properties to reduce repetition  */
+/* Combined all the benifit classes to reduce repetition  */
 .benefit-lead,
-.benifit-brand,
-.benifit-cost {
+.benefit-brand,
+.benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
@@ -105,7 +105,7 @@ p {
   color: #ffffff;
 } */
 
-/* Combined benifit properities together to reduce repetition */
+/* Combined benifit classes together to reduce repetition */
 .benefit-lead h3,
 .benefit-brand h3,
 .benifit-cost h3 {
@@ -190,7 +190,6 @@ p {
 } */
 
 /*  Combined social media sections together to reduce repetition  */
-
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
